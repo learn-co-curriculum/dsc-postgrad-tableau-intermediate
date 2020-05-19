@@ -28,5 +28,5 @@ Now that you know how to connect to data and create basic visualizations, this l
 **Step 2**: Go through the course Tableau Desktop Fundamentals, using _Tableau Desktop_ and the notebooks provided through the course to follow along and complete the course.
 
 ## Summary
-Congratulations, you've finished your second Tableau lesson! Your next Tableau lesson will be a Tableau assignment that will allow you to practice your new Tableau skill-set.
+Congratulations, you've finished your second Tableau lesson! Your next Tableau lesson will be an assignment that will allow you to practice your new Tableau skill-set.
 
